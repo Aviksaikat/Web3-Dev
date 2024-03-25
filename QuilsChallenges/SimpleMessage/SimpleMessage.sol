@@ -57,5 +57,4 @@ contract SimpleMessage {
         return messages[msgOwner];
     }
 
-
 }
